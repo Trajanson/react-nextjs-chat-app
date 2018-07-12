@@ -1,0 +1,29 @@
+{
+  "name": "react-next",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "next-start": "next start",
+    "start": "NODE_ENV=production node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nick Cook",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "next": "^6.1.1",
+    "pusher": "^2.0.1",
+    "pusher-js": "^4.2.2",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "sentiment": "^5.0.1"
+  }
+}
