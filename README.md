@@ -11,4 +11,12 @@ This is a very simple chat application I developed after having used React for s
 
 ![Name input](/screenshots/name_input.png?raw=true)
 
+![User created](/screenshots/user_created.png?raw=true)
+
+![User 'Nick' message - Neutral sentiment](/screenshots/nick_1.png?raw=true)
+
+![User 'Chris' message - Positive sentiment](/screenshots/chris_1.png?raw=true)
+
+![User 'Michael' message - Negative sentiment](/screenshots/michael_1.png?raw=true)
+
 Original tutorial at https://codeburst.io/build-a-chat-app-with-sentiment-analysis-using-next-js-c43ebf3ea643.
